@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Game
+# Tic-Tac-Toe-Game ![Tic Tac Toe](https://github.com/enes-plt/Tic-Tac-Toe-Game/assets/152672327/32ac314c-77f2-4b34-802f-680f4193a641)
 
 Tic-Tac-Toe Game via Java
 
